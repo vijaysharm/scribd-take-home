@@ -61,6 +61,8 @@
 		C4AAE75A2C41EC0B00E59C0C = {
 			isa = PBXGroup;
 			children = (
+				C4AAE78E2C4301CC00E59C0C /* everand.gif */,
+				C4AAE78A2C42EDB400E59C0C /* README.md */,
 				C4AAE7652C41EC0B00E59C0C /* Everand */,
 				C4AAE7642C41EC0B00E59C0C /* Products */,
 			);
@@ -83,8 +85,6 @@
 				C4AAE76A2C41EC0E00E59C0C /* Assets.xcassets */,
 				C4AAE7882C42C6C200E59C0C /* media.json */,
 				C4AAE78C2C4300F100E59C0C /* Scribd Take Home Assignment iOs.pdf */,
-				C4AAE78E2C4301CC00E59C0C /* everand.gif */,
-				C4AAE78A2C42EDB400E59C0C /* README.md */,
 				C4AAE76C2C41EC0E00E59C0C /* Preview Content */,
 			);
 			path = Everand;
